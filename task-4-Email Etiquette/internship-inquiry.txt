@@ -1,0 +1,12 @@
+Email 2: Internship Inquiry
+Subject: Summer Internship Inquiry: [Target Department] 
+Dear [Coordinator's Name or "Internship Coordinator"],
+My name is name, and I am currently a [Year] engineering student at [Your Institution Name] in place. I am writing to express my strong interest in a summer internship opportunity within the [Specific Department, e.g., Software Engineering or AI] team at [Company Name].
+I have been following [Company Name]’s work in [mention a specific company project or field], and I am eager to contribute my skills in Python programming and problem-solving to your team. My academic background has provided me with a solid foundation in [mention a skill, e.g., Discrete Mathematics and Search Algorithms], and I am passionate about applying these technical concepts to real-world industrial challenges.
+I have attached my resume and a link to my GitHub portfolio for your review. I would welcome the chance to discuss how my background and enthusiasm for [Company Field] could benefit [Company Name] this summer.
+Thank you for your time and consideration.
+Sincerely,
+[name]
+[LinkedIn Profile Link]
+[Phone Number]
+

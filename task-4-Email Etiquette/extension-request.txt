@@ -1,0 +1,13 @@
+EMAIL 1 :Requesting an Extension
+Subject: Extension Request: [Assignment Name] – [Your Full Name] – [Your Roll Number/ID]
+Dear Professor [Professor's Last Name],
+I hope this email finds you well.
+I am writing to respectfully request a brief extension for the [Assignment Name] due on [Original Due Date]. Unfortunately, due to [mention a brief, valid reason like a medical issue or a technical complication with a lab project], I require a little more time to ensure the quality of my submission meets the required standards.
+Would it be possible to submit my assignment by [Proposed New Date and Time]? I have already completed [mention a portion, e.g., the research and initial draft] and am working diligently to finalize the remaining sections.
+Thank you for your time and for considering my request. I look forward to hearing from you.
+Best regards,
+[NAME]
+[Your Branch, e.g., B.Tech Computer Science]
+[Your Year/Semester]
+[Your Institution Name]
+
