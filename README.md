@@ -9,7 +9,7 @@ As a Student Digital Ambassador, I have developed this portfolio to help my peer
  Repository Structure & Module Summaries
 # Task 1: Digital Literacy Awareness Infographic
 •	Folder: task-1-presentation/ 
-•	Summary: Created a visual resource to define digital literacy and showcase essential tools like Google Docs, Trello, and Khan Academy. It emphasizes being a smart consumer and creative producer of digital information.
+•	Summary: Created a visual resource to define digital literacy and showcase essential tools like Google Docs,ETC. It emphasizes being a smart consumer and creative producer of digital information.
 •	Tools Used: Canva.
 # Task 2: Portfolio
 •	Folder: task-2-portfolio/ 
